@@ -1,30 +1,131 @@
-Horror Engine is a complete project for designing horror games that was initially released in September 2018 and included in the Permanently Free Collection under the sponsorship of Unreal Engine in September 2019. It allows you to experience various mechanics included in the asset and explore the possibilities of game creation without requiring any coding knowledge.
 
-Don't forget to rate!
+<img class="marginauto" src= "https://cdn1.epicgames.com/ue/product/Thumbnail/HorrorEngine_thumb-284x284-710870be7179b8bc406ab100f0220f60.png?resize=1&w=300">
 
-Technical Details
-Horror Events System (Endless Combinations)
-Main Menu System (incl. Settings)
-Locomotion & Player Camera System (w/ Crouch, Lean, Jump, Climb, Head Bobbing, FOV, DOF, more)
-Footstep System (incl. 7 surfaces)
-Health System (w/ Damage, HUD, SFX)
-Subtitle System (incl. Sequence, Sound)
-Physics System (w/ Holding, Carrying, Throwing objects)
-Puzzle System (incl. Puzzle Maker, Trigger Area)
-Inspection System (incl. Zoom, Rotate, Pan, Pivot, more)
-Inventory System (incl. Information, Inspection)
-Diary System (w/ easy update)
-Light Equipments (incl. Glowstick, Flashlight, Lighter, Torch)
-Night Vision Camera (w/ Zoom)
-Instant Camera (w/ Album)
-Pistol and Shoot Trigger
-VHS System (incl. VHS, Player, Old TV)
-TV System (incl. Channels)
-Radio System (incl. Channels)
-Security System (w/ Panel, Camera, Alarm, Sensor, Monitor, Door)
-Lighting System (incl. Pointlight, Spotlight, Torch w/ Flicker, Explosion)
-Modular Candle System (w/ Intensity, Flicker, Duration, SFX)
-Modular Doors and Furnitures (incl. Lock System, SFX, more)
-Modular Buttons (incl. Secret Book, Torch, Painting)
-Modular Ladder (incl. Connect Rate, Height, Climb Speed, more)
-Portal System (incl. Visual, Sound Effects)
+<b>Technical Details:</b>
+<br>
+
+<b> • Horror Events System </b>(Endless Combinations)
+
+<br>
+
+<b> • Main Menu System </b>( Settings)
+
+<br>
+
+<b> • Locomotion & Player Camera System </b>( Crouch, Lean, Jump, Climb, Head Bobbing, FOV, DOF, more)
+
+<br>
+
+<b> • Footstep System </b>( 7 surfaces)
+
+<br>
+
+<b> • Health System </b>( Damage, HUD, SFX)
+
+<br>
+
+<b> • Subtitle System </b>( Sequence, Sound)
+
+<br>
+
+<b> • Physics System </b>( Holding, Carrying, Throwing objects)
+
+<br>
+
+<b> • Puzzle System </b>( Puzzle Maker, Trigger Area)
+
+<br>
+
+<b> • Inspection System </b>( Zoom, Rotate, Pan, Pivot, more)
+
+<br>
+
+<b> • Inventory System </b>( Information, Inspection)
+
+<br>
+
+<b> • Diary System </b>( Easy update)
+
+<br>
+
+<b> • Light Equipments </b>( Glowstick, Flashlight, Lighter, Torch)
+
+<br>
+
+<b> • Night Vision Camera </b>( Zoom)
+
+<br>
+
+<b> • Instant Camera </b>(w/ Album)
+
+<br>
+
+<b> • Pistol and Shoot Trigger </b>
+
+<br>
+
+<b> • VHS System </b>( VHS, Player, Old TV)
+
+<br>
+
+<b> • TV System </b>( Channels)
+
+<br>
+
+<b> • Radio System </b>( Channels)
+
+<br>
+
+<b> • Security System </b>( Panel, Camera, Alarm, Sensor, Monitor, Door)
+
+<br>
+
+<b> • Lighting System </b>( Pointlight, Spotlight, Torch w/ Flicker, Explosion)
+
+<br>
+
+<b> • Modular Candle System </b>( Intensity, Flicker, Duration, SFX)
+
+<br>
+
+<b> • Modular Doors and Furnitures </b>( Lock System, SFX, more)
+
+<br>
+
+<b> • Modular Buttons </b>( Secret Book, Torch, Painting)
+
+<br>
+
+<b> • Modular Ladder </b>( Connect Rate, Height, Climb Speed, more)
+
+<br>
+
+<b> • Portal System </b>( Visual, Sound Effects)
+
+<br>
+
+<b> My contacts: </b>
+
+<br>
+
+<b> • Mail - </b> dansush03@gmail.com
+
+<br>
+
+<b> • Vkontakte - </b> https://vk.com/pomiranov666
+
+<br>
+
+<b> • Discord - </b> pomiranov
+
+<br>
+
+<b> • Twitter - </b> https://twitter.com/danila1880645
+
+<br>
+
+<b> • Reddit - </b> https://www.reddit.com/user/Disastrous_Salad9080/
+
+<br>
+
+<b> • YouTube - </b> https://www.youtube.com/@HyperKode-uc6go/featured
