@@ -1,14 +1,17 @@
 
 <img class="marginauto" src= "https://cdn1.epicgames.com/ue/product/Thumbnail/HorrorEngine_thumb-284x284-710870be7179b8bc406ab100f0220f60.png?resize=1&w=300">
 
-<b>Technical Details:</b>
-<br>
-
-<b> • Horror Events System </b>(Endless Combinations)
-
 <br>
 
 <b> • At the moment this project is being finalized. and the developer will post the finished version a little later</b>
+
+</br>
+
+<b>Technical Details:</b>
+
+<br>
+
+<b> • Horror Events System </b>(Endless Combinations)
 
 </br>
 
