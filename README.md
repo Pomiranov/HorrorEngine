@@ -8,6 +8,10 @@
 
 <br>
 
+<b> • At the moment this project is being finalized. and the developer will post the finished version a little later</b>
+
+</br>
+
 <b> • Main Menu System </b>( Settings)
 
 <br>
